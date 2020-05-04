@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## JavaScript animation example
 
-You can use the [editor on GitHub](https://github.com/nelliesnoodles/javascriptAnimationExample/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+In the persuit of trying to create a star field animation for a web page, I realized I don't know near enough about animation on websites.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I do have a bit of experience with python packages such as pygame and Tkinter, so I had a lot of background to help guide me through what I might need to do for this.  But in keeping with my desire to help others learn what I couldn't easily find, I have created this webpage, and a blog post so that others can use the code as a base experiment model, and learn from it.
 
-### Markdown
+### blogpost:
+(In progress 05-04-2020)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### helpful resources:
+https://www.khanacademy.org/computing/computer-programming/programming/animation-basics/pt/making-animations
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nelliesnoodles/javascriptAnimationExample/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
