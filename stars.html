@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <script type="text/javascript" src="draw_stars.js"></script>
+    <link rel="stylesheet" href="stars_css.css" />
+
+    <title>Javascript Animation Experiment</title>
+</head>
+<body>
+    <div class="change_bar">
+        <button id="about">Instructions</button>
+        <button id="start">start</button>
+        <button id="leftPlus">Right+</button>
+        <button id="leftMinus">Right-</button>
+        <button id="speedPlus">speed+</button>
+        <button id="speedMinus">speed-</button>
+        <button id="downPlus">drop+</button>
+        <button id="downMinus">drop-</button>
+        <button id="stop">stop</button>
+        <button style="color: darkblue; border: 4px solid red;" id="reset">RESET</button>
+    </div>
+    <div id="instructions">
+        <p>
+            As the speed interval changes, the ball will appear to move faster.
+            Along with speed, the rate at which the ball moves to the right, can also effect 'speed',
+            as can the drop, down motion.
+            For instance, if you turn the speed and both right, and down to max, (set in the code), the ball will appear
+            to be zipping diagonally across the screen.
+            Consider the speed a framrate,  and the drop/right motions as the direction.
+            This was an experiment to play with animation with javascript.
+            See the blog post here:
+
+        </p>
+        <button id="close_instructions">CLOSE</button>
+    </div>
+
+    <div id="stars">
+
+    </div>
+    
+
+
+</body>
+</html>
