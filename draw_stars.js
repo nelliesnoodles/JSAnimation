@@ -89,6 +89,9 @@ function stop_run() {
 
 }
 function run() {
+    if(my_interval){
+        clearInterval(my_interval)
+    }
     my_interval = setInterval(move_star, speed);
 }
 
