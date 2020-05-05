@@ -8,7 +8,7 @@ var my_interval;
 // change speed
 const speed_interval = 50;
 var speed = 1000;
-var min_speed = 50;
+const min_speed = 50;
 var max_speed = 4000;
 
 //change direction
