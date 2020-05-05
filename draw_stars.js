@@ -25,7 +25,7 @@ const min_down = 0;
 function reset_all() {
     speed = 1000
     right_motion = 5
-    down_motion = 10
+    down_motion = 5
     x = 0
     y = 0
 }
