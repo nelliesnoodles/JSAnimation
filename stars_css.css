@@ -56,8 +56,7 @@ button {
         position: relative;
         flex-direction: column;
         height: auto;
-        width: 20vw;
-        font-size: 1.5em;
+        width: 40vw;
     }
    
     body {
