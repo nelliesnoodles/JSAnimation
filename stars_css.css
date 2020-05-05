@@ -17,7 +17,7 @@
     background: darkblue;
     position: absolute;
     top: 0;
-    z-index: 2;
+    z-index: 10;
 }
 #stars {
 
